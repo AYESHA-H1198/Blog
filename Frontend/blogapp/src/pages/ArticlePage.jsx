@@ -29,7 +29,9 @@ const ArticlePage = () => {
                 backgroundPosition: 'center',
                 minHeight: '100vh',
                 minWidth: '100vw', // Ensure the background covers the entire viewport
+                
             }}
+            className='px-6'
         >
             <h1 
                 style={{
