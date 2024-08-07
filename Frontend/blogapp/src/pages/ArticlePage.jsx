@@ -31,7 +31,7 @@ const ArticlePage = () => {
                 minWidth: '100vw', // Ensure the background covers the entire viewport
                 
             }}
-            className='px-6'
+            className='px-10 text-[32px]'
         >
             <h1 
                 style={{
